@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ВЛГУ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_nav_bottom">NavBottom</string>
+    <string name="title_home">Расписание</string>
+    <string name="title_notifications">Заметки</string>
+    <string name="title_dashboard">Преподаватели</string>
+    <string name="title_bak">Преподаватели</string>
+    <string name="title_spec">Преподаватели</string>
+    <string name="title_mag">Преподаватели</string>
+</resources>
